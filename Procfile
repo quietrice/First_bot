@@ -1,1 +1,1 @@
-worker: python TelegramBotTheater
+worker: python TelegramBotTheater.py
