@@ -4,7 +4,7 @@ PyYAML==5.2
 argh==0.26.2
 bs4==0.0.1
 cachier==1.2.8
-lxml==4.4.2
+lxml==4.9.1
 packaging==19.2
 parse==1.12.1
 parse-type==0.5.2
